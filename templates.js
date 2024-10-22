@@ -9,8 +9,8 @@ by {{authors}}
 ### {{sectionTitle}}
 
 {{#highlights}}
-{{highlight}}
-**{{type}}** {{#page}}page: {{page}}{{/page}} {{#location}}location: {{location}}{{/location}}
+- {{highlight}}
+{{#page}}page: {{page}}{{/page}} {{#location}}location: {{location}}{{/location}}
 
 {{/highlights}}
 {{/sections}}
